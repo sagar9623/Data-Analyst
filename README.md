@@ -40,4 +40,4 @@ The airline dashboard focuses on various metrics such as:
 - Analysis of customer satisfaction and reviews.
 
 ![Airline Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/11b033d6-edbc-45bc-a077-928100eb2240)
-[Airline Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/0624ef59-3709-4939-a256-bf1577bd66f3)
+![Airline Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/0624ef59-3709-4939-a256-bf1577bd66f3)
