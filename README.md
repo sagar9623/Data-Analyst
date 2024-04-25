@@ -1,7 +1,5 @@
 # Data Visualization Dashboard for Netflix and Airline Data
 
-![Banner Image](C:\Users\katek\OneDrive\Pictures\Screenshots)
-
 Welcome to my data visualization dashboard project! This repository showcases interactive data visualization dashboards created using a variety of tools, including PowerBI, Tableau, Python, and Pandas. The main focus is on analyzing data from Netflix and Airline industries, providing insightful visualizations and interactive elements for exploration.
 
 ## Project Overview
@@ -31,7 +29,7 @@ This dashboard analyzes Netflix content, including:
 - User ratings and their trends over time.
 - Top-rated content and recommendations based on popularity.
 
-![Netflix Dashboard](images/netflix_dashboard.png)
+![Netflix Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/05624487-5ff3-47fe-bb13-4f3e9632dfd4)
 
 ### Airline Dashboard
 
@@ -41,10 +39,5 @@ The airline dashboard focuses on various metrics such as:
 - Performance metrics for airlines and airports.
 - Analysis of customer satisfaction and reviews.
 
-![Airline Dashboard](images/airline_dashboard.png)
-
-## How to Use
-
-1. Clone the repository to your local environment:
-   ```bash
-   git clone https://github.com/your_username/data-visualization-dashboard.git
+![Airline Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/11b033d6-edbc-45bc-a077-928100eb2240)
+[Airline Dashboard](https://github.com/sagar9623/Data-Analyst/assets/43597967/0624ef59-3709-4939-a256-bf1577bd66f3)
